@@ -204,7 +204,6 @@ byte pixel = 255;
 #### **`byte`** (Keyword)
 - **Meaning:** Byte integer
 - **Stores:** Very small whole numbers
-- **Range:** -128 to 127
 - **Memory:** 1 byte (smallest integer type)
 - **When to use:** Image processing, binary data, when memory is extremely critical
 
