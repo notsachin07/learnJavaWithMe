@@ -461,10 +461,10 @@ System.out.println("Quantity Available: " + quantity);
 
 ### Example 3: Personal Details
 ```java
-String city = "Amaravati";
-String state = "Andhra Pradesh";
+String city = "...........";
+String state = "...........";
 String country = "India";
-int zipCode = 522001;
+int zipCode = 55555;
 
 System.out.println("Location: " + city + ", " + state);
 System.out.println("Country: " + country);
