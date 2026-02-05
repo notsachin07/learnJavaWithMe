@@ -14,8 +14,10 @@ Phase 2 builds on your Phase 1 fundamentals, introducing **loops**, **methods**,
 - **Exercises:** 9 (3 Easy, 3 Medium, 3 Hard)
 - **Key Learning:** Repeating actions efficiently
 
-### **Class 2: Methods** 🔧 *(Coming Soon)*
+### **Class 2: Methods** 🔧
 - **Topics:** Method definition, parameters, return values, overloading, scope
+- **Files:** 3 (README, Code, Exercises)
+- **Exercises:** 9 (3 Easy, 3 Medium, 3 Hard)
 - **Key Learning:** Organizing code into reusable blocks
 
 ### **Class 3: Arrays** 📋 *(Coming Soon)*
@@ -42,10 +44,10 @@ Phase-2-ControlFlow/
 │   ├── Loops.java               (Working code)
 │   └── Exercises.md             (9 exercises)
 │
-├── Class2-Methods/              (Coming Soon)
-│   ├── README.md
-│   ├── Methods.java
-│   └── Exercises.md
+├── Class2-Methods/
+│   ├── README.md                 (Comprehensive tutorial)
+│   ├── Methods.java             (Working code)
+│   └── Exercises.md             (9 exercises)
 │
 ├── Class3-Arrays/               (Coming Soon)
 │   ├── README.md
@@ -72,7 +74,7 @@ Phase-2-ControlFlow/
 | Metric | Count |
 |--------|-------|
 | **Total Classes** | 5 |
-| **Completed Classes** | 1 |
+| **Completed Classes** | 2 |
 | **Total Exercises (Planned)** | 45 |
 
 ---
@@ -90,6 +92,19 @@ You've learned:
 
 ---
 
+## ✅ Completed: Class 2 - Methods
+
+You've learned:
+- ✅ Method definition and calling
+- ✅ Void methods (no return value)
+- ✅ Methods with parameters
+- ✅ Methods with return values
+- ✅ Method overloading
+- ✅ Variable scope (local, block, class level)
+- ✅ Best practices for writing methods
+
+---
+
 ## 🔗 Progression Path
 
 ```
@@ -103,9 +118,9 @@ Phase 1 (Fundamentals) ✅
   
 Phase 2 (Control Flow) ← You are here!
   │
-  ├── Loops ✅ (Current)
-  ├── Methods (Next)
-  ├── Arrays
+  ├── Loops ✅
+  ├── Methods ✅ (Current)
+  ├── Arrays (Next)
   ├── For-Each
   └── Debugging
   
