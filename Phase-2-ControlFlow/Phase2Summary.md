@@ -20,8 +20,10 @@ Phase 2 builds on your Phase 1 fundamentals, introducing **loops**, **methods**,
 - **Exercises:** 9 (3 Easy, 3 Medium, 3 Hard)
 - **Key Learning:** Organizing code into reusable blocks
 
-### **Class 3: Arrays** 📋 *(Coming Soon)*
-- **Topics:** Single-dimensional arrays, declaring, initializing, accessing, iterating
+### **Class 3: Arrays** 📋
+- **Topics:** Single-dimensional arrays, 2D arrays, declaring, initializing, accessing, iterating, common operations
+- **Files:** 3 (README, Code, Exercises)
+- **Exercises:** 9 (3 Easy, 3 Medium, 3 Hard)
 - **Key Learning:** Storing collections of data
 
 ### **Class 4: Enhanced For-Each Loop** 🔄 *(Coming Soon)*
@@ -49,10 +51,10 @@ Phase-2-ControlFlow/
 │   ├── Methods.java             (Working code)
 │   └── Exercises.md             (9 exercises)
 │
-├── Class3-Arrays/               (Coming Soon)
-│   ├── README.md
-│   ├── Arrays.java
-│   └── Exercises.md
+├── Class3-Arrays/
+│   ├── README.md                 (Comprehensive tutorial)
+│   ├── ArraysDemo.java          (Working code)
+│   └── Exercises.md             (9 exercises)
 │
 ├── Class4-ForEach/              (Coming Soon)
 │   ├── README.md
@@ -74,7 +76,7 @@ Phase-2-ControlFlow/
 | Metric | Count |
 |--------|-------|
 | **Total Classes** | 5 |
-| **Completed Classes** | 2 |
+| **Completed Classes** | 3 |
 | **Total Exercises (Planned)** | 45 |
 
 ---
@@ -105,6 +107,19 @@ You've learned:
 
 ---
 
+## ✅ Completed: Class 3 - Arrays
+
+You've learned:
+- ✅ Array declaration and initialization
+- ✅ Accessing and modifying elements
+- ✅ Iterating with for and for-each loops
+- ✅ Common operations (sum, average, min, max, search)
+- ✅ Passing arrays to methods
+- ✅ java.util.Arrays utility class
+- ✅ 2D arrays (matrices)
+
+---
+
 ## 🔗 Progression Path
 
 ```
@@ -119,9 +134,9 @@ Phase 1 (Fundamentals) ✅
 Phase 2 (Control Flow) ← You are here!
   │
   ├── Loops ✅
-  ├── Methods ✅ (Current)
-  ├── Arrays (Next)
-  ├── For-Each
+  ├── Methods ✅
+  ├── Arrays ✅ (Current)
+  ├── For-Each (Next)
   └── Debugging
   
 Phase 3 (OOP) - Coming Soon!
