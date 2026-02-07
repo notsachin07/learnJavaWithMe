@@ -26,8 +26,10 @@ Phase 2 builds on your Phase 1 fundamentals, introducing **loops**, **methods**,
 - **Exercises:** 9 (3 Easy, 3 Medium, 3 Hard)
 - **Key Learning:** Storing collections of data
 
-### **Class 4: Enhanced For-Each Loop** 🔄 *(Coming Soon)*
-- **Topics:** For-each syntax, working with arrays, comparison with for loop
+### **Class 4: Enhanced For-Each Loop** 🔄
+- **Topics:** For-each syntax, comparison with traditional for, 2D arrays, strings, limitations
+- **Files:** 3 (README, Code, Exercises)
+- **Exercises:** 9 (3 Easy, 3 Medium, 3 Hard)
 - **Key Learning:** Simplified iteration over collections
 
 ### **Class 5: Debugging & Best Practices** 🐛 *(Coming Soon)*
@@ -56,10 +58,10 @@ Phase-2-ControlFlow/
 │   ├── ArraysDemo.java          (Working code)
 │   └── Exercises.md             (9 exercises)
 │
-├── Class4-ForEach/              (Coming Soon)
-│   ├── README.md
-│   ├── ForEach.java
-│   └── Exercises.md
+├── Class4-ForEach/
+│   ├── README.md                 (Comprehensive tutorial)
+│   ├── ForEachDemo.java         (Working code)
+│   └── Exercises.md             (9 exercises)
 │
 ├── Class5-Debugging/            (Coming Soon)
 │   ├── README.md
@@ -76,7 +78,7 @@ Phase-2-ControlFlow/
 | Metric | Count |
 |--------|-------|
 | **Total Classes** | 5 |
-| **Completed Classes** | 3 |
+| **Completed Classes** | 4 |
 | **Total Exercises (Planned)** | 45 |
 
 ---
@@ -120,6 +122,19 @@ You've learned:
 
 ---
 
+## ✅ Completed: Class 4 - Enhanced For-Each Loop
+
+You've learned:
+- ✅ For-each syntax and semantics
+- ✅ When to use for-each vs traditional for
+- ✅ For-each with different data types
+- ✅ The modification pitfall (can't modify elements)
+- ✅ Nested for-each with 2D arrays
+- ✅ For-each with Strings (toCharArray)
+- ✅ Using break and continue
+
+---
+
 ## 🔗 Progression Path
 
 ```
@@ -135,9 +150,9 @@ Phase 2 (Control Flow) ← You are here!
   │
   ├── Loops ✅
   ├── Methods ✅
-  ├── Arrays ✅ (Current)
-  ├── For-Each (Next)
-  └── Debugging
+  ├── Arrays ✅
+  ├── For-Each ✅ (Current)
+  └── Debugging (Next)
   
 Phase 3 (OOP) - Coming Soon!
   │
