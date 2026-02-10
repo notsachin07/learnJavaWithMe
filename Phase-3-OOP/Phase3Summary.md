@@ -12,10 +12,10 @@ Phase 3 introduces **Object-Oriented Programming (OOP)**, one of the most import
 - **Key Concepts:** Blueprints vs instances, encapsulation foundation, real-world modeling
 - **Files:** `README.md`, `ClassesDemo.java`, `Exercises.md`
 
-### Class 2: Constructors 🔲
-- **Topics:** Constructor definition, initialization, overloading, the `new` keyword
-- **Key Concepts:** Object initialization, setup, default constructors
-- **Status:** Coming soon!
+### Class 2: Constructors ✅
+- **Topics:** Constructor definition, initialization, overloading, the `this` keyword, chaining
+- **Key Concepts:** Object initialization, setup, default constructors, constructor overloading
+- **Files:** `README.md`, `ConstructorsDemo.java`, `Exercises.md`
 
 ### Class 3: Encapsulation 🔲
 - **Topics:** Access modifiers (private, public), getters, setters, validation
@@ -39,7 +39,7 @@ Phase 3 introduces **Object-Oriented Programming (OOP)**, one of the most import
 | Class | Topic | Status |
 |-------|-------|--------|
 | 1 | Classes & Objects | ✅ Complete |
-| 2 | Constructors | 🔲 Pending |
+| 2 | Constructors | ✅ Complete |
 | 3 | Encapsulation | 🔲 Pending |
 | 4 | Inheritance | 🔲 Pending |
 | 5 | Polymorphism | 🔲 Pending |
