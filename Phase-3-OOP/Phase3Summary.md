@@ -17,10 +17,10 @@ Phase 3 introduces **Object-Oriented Programming (OOP)**, one of the most import
 - **Key Concepts:** Object initialization, setup, default constructors, constructor overloading
 - **Files:** `README.md`, `ConstructorsDemo.java`, `Exercises.md`
 
-### Class 3: Encapsulation 🔲
+### Class 3: Encapsulation ✅
 - **Topics:** Access modifiers (private, public), getters, setters, validation
 - **Key Concepts:** Data hiding, controlled access, maintaining invariants
-- **Status:** Coming soon!
+- **Files:** `README.md`, `EncapsulationDemo.java`, `Exercises.md`
 
 ### Class 4: Inheritance 🔲
 - **Topics:** Parent-child relationships, extending classes, method overriding, `super` keyword
@@ -40,7 +40,7 @@ Phase 3 introduces **Object-Oriented Programming (OOP)**, one of the most import
 |-------|-------|--------|
 | 1 | Classes & Objects | ✅ Complete |
 | 2 | Constructors | ✅ Complete |
-| 3 | Encapsulation | 🔲 Pending |
+| 3 | Encapsulation | ✅ Complete |
 | 4 | Inheritance | 🔲 Pending |
 | 5 | Polymorphism | 🔲 Pending |
 
