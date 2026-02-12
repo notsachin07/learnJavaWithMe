@@ -22,10 +22,10 @@ Phase 3 introduces **Object-Oriented Programming (OOP)**, one of the most import
 - **Key Concepts:** Data hiding, controlled access, maintaining invariants
 - **Files:** `README.md`, `EncapsulationDemo.java`, `Exercises.md`
 
-### Class 4: Inheritance 🔲
+### Class 4: Inheritance ✅
 - **Topics:** Parent-child relationships, extending classes, method overriding, `super` keyword
 - **Key Concepts:** Code reuse, hierarchical design, polymorphism foundation
-- **Status:** Coming soon!
+- **Files:** `README.md`, `InheritanceDemo.java`, `Exercises.md`
 
 ### Class 5: Polymorphism 🔲
 - **Topics:** Method overriding, interfaces, dynamic binding, casting
