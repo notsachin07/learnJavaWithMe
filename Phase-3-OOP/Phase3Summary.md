@@ -27,10 +27,10 @@ Phase 3 introduces **Object-Oriented Programming (OOP)**, one of the most import
 - **Key Concepts:** Code reuse, hierarchical design, polymorphism foundation
 - **Files:** `README.md`, `InheritanceDemo.java`, `Exercises.md`
 
-### Class 5: Polymorphism 🔲
-- **Topics:** Method overriding, interfaces, dynamic binding, casting
+### Class 5: Polymorphism ✅
+- **Topics:** Method overloading vs overriding, dynamic dispatch, interfaces, abstract classes, casting
 - **Key Concepts:** Flexibility, extensibility, writing general code
-- **Status:** Coming soon!
+- **Files:** `README.md`, `PolymorphismDemo.java`, `Exercises.md`
 
 ---
 
@@ -41,8 +41,8 @@ Phase 3 introduces **Object-Oriented Programming (OOP)**, one of the most import
 | 1 | Classes & Objects | ✅ Complete |
 | 2 | Constructors | ✅ Complete |
 | 3 | Encapsulation | ✅ Complete |
-| 4 | Inheritance | 🔲 Pending |
-| 5 | Polymorphism | 🔲 Pending |
+| 4 | Inheritance | ✅ Complete |
+| 5 | Polymorphism | ✅ Complete |
 
 ---
 
@@ -197,4 +197,6 @@ Constructors will let you automatically initialize objects when they're created.
 
 **You've started your OOP journey!** From here, each new concept builds on what you've learned. Keep practicing and asking "why?" when you see new patterns. 🚀
 
-Next class: **Constructors** - Making object creation even more powerful!
+Phase 3 is now complete! 🎉
+
+Next up: **Phase 4 (Advanced Features)** - Exceptions, Collections, File I/O, and APIs.
