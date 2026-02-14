@@ -58,7 +58,8 @@
 |-------|-------|---------|--------|
 | 1 | Fundamentals | 5 | ✅ Complete |
 | 2 | Control Flow | 5 | ✅ Complete |
-| 3 | Object-Oriented Programming | 5 | 🔶 In Progress (4/5) |
+| 3 | Object-Oriented Programming | 5 | ✅ Complete |
+| 4 | Advanced Features | 5 | 🔶 In Progress (1/5) |
 
 ---
 
@@ -90,17 +91,31 @@ Master loops, methods, arrays, and debugging techniques.
 
 ---
 
-## 🧱 Phase 3: Object-Oriented Programming 🔶
+## 🧱 Phase 3: Object-Oriented Programming ✅
 
 Understand the core principles of OOP - classes, objects, encapsulation, inheritance, and polymorphism.
 
+| Class | Topic | Description |
+|-------|-------|-------------|
+| 1 | [Classes & Objects](Phase-3-OOP/Class1-Classes/) | Creating classes, instantiating objects, instance variables |
+| 2 | [Constructors](Phase-3-OOP/Class2-Constructors/) | Default, parameterized, and overloaded constructors |
+| 3 | [Encapsulation](Phase-3-OOP/Class3-Encapsulation/) | Access modifiers, getters, setters, data hiding |
+| 4 | [Inheritance](Phase-3-OOP/Class4-Inheritance/) | `extends`, `super`, method overriding, class hierarchies |
+| 5 | [Polymorphism](Phase-3-OOP/Class5-Polymorphism/) | Method overriding, dynamic dispatch, abstract classes |
+
+---
+
+## ⚡ Phase 4: Advanced Features 🔶
+
+Master advanced Java concepts for production-quality code.
+
 | Class | Topic | Description | Status |
 |-------|-------|-------------|--------|
-| 1 | [Classes & Objects](Phase-3-OOP/Class1-Classes/) | Creating classes, instantiating objects, instance variables | ✅ |
-| 2 | [Constructors](Phase-3-OOP/Class2-Constructors/) | Default, parameterized, and overloaded constructors | ✅ |
-| 3 | [Encapsulation](Phase-3-OOP/Class3-Encapsulation/) | Access modifiers, getters, setters, data hiding | ✅ |
-| 4 | [Inheritance](Phase-3-OOP/Class4-Inheritance/) | `extends`, `super`, method overriding, class hierarchies | ✅ |
-| 5 | Polymorphism | Method overriding, dynamic dispatch, abstract classes | 🔲 |
+| 1 | [Exception Handling](Phase-4-Advanced/Class1-Exceptions/) | try-catch, throwing exceptions, custom exceptions | ✅ |
+| 2 | Collections | ArrayList, HashMap, HashSet, generics | 🔲 |
+| 3 | File I/O | Reading/writing files, BufferedReader, try-with-resources | 🔲 |
+| 4 | Streams & Lambdas | Lambda expressions, Stream API, functional programming | 🔲 |
+| 5 | Working with APIs | HTTP requests, JSON parsing, REST basics | 🔲 |
 
 ---
 
@@ -123,13 +138,20 @@ learningJava/
 │   ├── Class3-Arrays/
 │   ├── Class4-ForEach/
 │   └── Class5-Debugging/
-└── Phase-3-OOP/
-    ├── Phase3Summary.md
-    ├── Class1-Classes/
-    ├── Class2-Constructors/
-    ├── Class3-Encapsulation/
-    ├── Class4-Inheritance/
-    └── Class5-Polymorphism/          # Coming soon
+├── Phase-3-OOP/
+│   ├── Phase3Summary.md
+│   ├── Class1-Classes/
+│   ├── Class2-Constructors/
+│   ├── Class3-Encapsulation/
+│   ├── Class4-Inheritance/
+│   └── Class5-Polymorphism/
+└── Phase-4-Advanced/
+    ├── Phase4Summary.md
+    ├── Class1-Exceptions/
+    ├── Class2-Collections/           # Coming soon
+    ├── Class3-FileIO/                # Coming soon
+    ├── Class4-StreamsLambdas/        # Coming soon
+    └── Class5-APIs/                  # Coming soon
 ```
 
 Each class folder contains:
