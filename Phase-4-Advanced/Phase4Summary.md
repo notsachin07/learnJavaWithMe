@@ -12,10 +12,10 @@ Phase 4 introduces **advanced Java features** that enable robust, production-qua
 - **Key Concepts:** Graceful error handling, program resilience, debugging
 - **Files:** `README.md`, `ExceptionDemo.java`, `Exercises.md`
 
-### Class 2: Collections 🔲
+### Class 2: Collections ✅
 - **Topics:** ArrayList, HashMap, HashSet, iterators, generics
 - **Key Concepts:** Dynamic data structures, type-safe collections
-- **Status:** Coming soon!
+- **Files:** `README.md`, `CollectionsDemo.java`, `Exercises.md`
 
 ### Class 3: File I/O 🔲
 - **Topics:** Reading/writing files, BufferedReader, BufferedWriter, try-with-resources
@@ -39,7 +39,7 @@ Phase 4 introduces **advanced Java features** that enable robust, production-qua
 | Class | Topic | Status |
 |-------|-------|--------|
 | 1 | Exception Handling | ✅ Complete |
-| 2 | Collections | 🔲 Pending |
+| 2 | Collections | ✅ Complete |
 | 3 | File I/O | 🔲 Pending |
 | 4 | Streams & Lambdas | 🔲 Pending |
 | 5 | Working with APIs | 🔲 Pending |
