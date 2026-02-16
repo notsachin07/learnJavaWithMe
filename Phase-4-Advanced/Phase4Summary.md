@@ -17,10 +17,10 @@ Phase 4 introduces **advanced Java features** that enable robust, production-qua
 - **Key Concepts:** Dynamic data structures, type-safe collections
 - **Files:** `README.md`, `CollectionsDemo.java`, `Exercises.md`
 
-### Class 3: File I/O 🔲
+### Class 3: File I/O ✅
 - **Topics:** Reading/writing files, BufferedReader, BufferedWriter, try-with-resources
 - **Key Concepts:** Persistent data, file operations, resource management
-- **Status:** Coming soon!
+- **Files:** `README.md`, `FileIODemo.java`, `Exercises.md`
 
 ### Class 4: Streams & Lambdas 🔲
 - **Topics:** Lambda expressions, Stream API, filter/map/reduce, functional interfaces
@@ -40,7 +40,7 @@ Phase 4 introduces **advanced Java features** that enable robust, production-qua
 |-------|-------|--------|
 | 1 | Exception Handling | ✅ Complete |
 | 2 | Collections | ✅ Complete |
-| 3 | File I/O | 🔲 Pending |
+| 3 | File I/O | ✅ Complete |
 | 4 | Streams & Lambdas | 🔲 Pending |
 | 5 | Working with APIs | 🔲 Pending |
 
