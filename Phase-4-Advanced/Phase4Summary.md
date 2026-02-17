@@ -22,10 +22,10 @@ Phase 4 introduces **advanced Java features** that enable robust, production-qua
 - **Key Concepts:** Persistent data, file operations, resource management
 - **Files:** `README.md`, `FileIODemo.java`, `Exercises.md`
 
-### Class 4: Streams & Lambdas 🔲
+### Class 4: Streams & Lambdas ✅
 - **Topics:** Lambda expressions, Stream API, filter/map/reduce, functional interfaces
 - **Key Concepts:** Functional programming, declarative code, data pipelines
-- **Status:** Coming soon!
+- **Files:** `README.md`, `StreamsLambdasDemo.java`, `Exercises.md`
 
 ### Class 5: Working with APIs 🔲
 - **Topics:** HTTP requests, JSON parsing, REST basics, external libraries
@@ -41,7 +41,7 @@ Phase 4 introduces **advanced Java features** that enable robust, production-qua
 | 1 | Exception Handling | ✅ Complete |
 | 2 | Collections | ✅ Complete |
 | 3 | File I/O | ✅ Complete |
-| 4 | Streams & Lambdas | 🔲 Pending |
+| 4 | Streams & Lambdas | ✅ Complete |
 | 5 | Working with APIs | 🔲 Pending |
 
 ---
