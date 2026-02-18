@@ -59,7 +59,7 @@
 | 1 | Fundamentals | 5 | ✅ Complete |
 | 2 | Control Flow | 5 | ✅ Complete |
 | 3 | Object-Oriented Programming | 5 | ✅ Complete |
-| 4 | Advanced Features | 5 | 🔶 In Progress (4/5) |
+| 4 | Advanced Features | 5 | ✅ Complete |
 
 ---
 
@@ -115,7 +115,7 @@ Master advanced Java concepts for production-quality code.
 | 2 | [Collections](Phase-4-Advanced/Class2-Collections/) | ArrayList, HashMap, HashSet, generics | ✅ |
 | 3 | [File I/O](Phase-4-Advanced/Class3-FileIO/) | Reading/writing files, BufferedReader, try-with-resources | ✅ |
 | 4 | [Streams & Lambdas](Phase-4-Advanced/Class4-StreamsLambdas/) | Lambda expressions, Stream API, functional programming | ✅ |
-| 5 | Working with APIs | HTTP requests, JSON parsing, REST basics | 🔲 |
+| 5 | [Working with APIs](Phase-4-Advanced/Class5-APIs/) | HTTP requests, JSON parsing, REST basics | ✅ |
 
 ---
 

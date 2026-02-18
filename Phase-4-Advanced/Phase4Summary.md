@@ -27,10 +27,10 @@ Phase 4 introduces **advanced Java features** that enable robust, production-qua
 - **Key Concepts:** Functional programming, declarative code, data pipelines
 - **Files:** `README.md`, `StreamsLambdasDemo.java`, `Exercises.md`
 
-### Class 5: Working with APIs 🔲
+### Class 5: Working with APIs ✅
 - **Topics:** HTTP requests, JSON parsing, REST basics, external libraries
 - **Key Concepts:** Web integration, data exchange, real-world applications
-- **Status:** Coming soon!
+- **Files:** `README.md`, `APIDemo.java`, `Exercises.md`
 
 ---
 
@@ -42,7 +42,7 @@ Phase 4 introduces **advanced Java features** that enable robust, production-qua
 | 2 | Collections | ✅ Complete |
 | 3 | File I/O | ✅ Complete |
 | 4 | Streams & Lambdas | ✅ Complete |
-| 5 | Working with APIs | 🔲 Pending |
+| 5 | Working with APIs | ✅ Complete |
 
 ---
 
