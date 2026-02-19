@@ -60,6 +60,7 @@
 | 2 | Control Flow | 5 | ✅ Complete |
 | 3 | Object-Oriented Programming | 5 | ✅ Complete |
 | 4 | Advanced Features | 5 | ✅ Complete |
+| 5 | Professional Java | 5 | 🔶 In Progress (1/5) |
 
 ---
 
@@ -105,7 +106,7 @@ Understand the core principles of OOP - classes, objects, encapsulation, inherit
 
 ---
 
-## ⚡ Phase 4: Advanced Features 🔶
+## ⚡ Phase 4: Advanced Features ✅
 
 Master advanced Java concepts for production-quality code.
 
@@ -116,6 +117,20 @@ Master advanced Java concepts for production-quality code.
 | 3 | [File I/O](Phase-4-Advanced/Class3-FileIO/) | Reading/writing files, BufferedReader, try-with-resources | ✅ |
 | 4 | [Streams & Lambdas](Phase-4-Advanced/Class4-StreamsLambdas/) | Lambda expressions, Stream API, functional programming | ✅ |
 | 5 | [Working with APIs](Phase-4-Advanced/Class5-APIs/) | HTTP requests, JSON parsing, REST basics | ✅ |
+
+---
+
+## 🏆 Phase 5: Professional Java 🔶
+
+Become a professional Java developer with advanced topics.
+
+| Class | Topic | Description | Status |
+|-------|-------|-------------|--------|
+| 1 | [Multithreading](Phase-5-Professional/Class1-Multithreading/) | Threads, ExecutorService, synchronization, concurrent utilities | ✅ |
+| 2 | Databases & JDBC | SQL basics, JDBC connections, PreparedStatement, transactions | 🔲 |
+| 3 | Design Patterns | Singleton, Factory, Builder, Observer, Strategy patterns | 🔲 |
+| 4 | Unit Testing | JUnit 5, assertions, test lifecycle, mocking basics | 🔲 |
+| 5 | Build Tools | Maven, Gradle, dependencies, JAR creation, project structure | 🔲 |
 
 ---
 
@@ -145,13 +160,20 @@ learningJava/
 │   ├── Class3-Encapsulation/
 │   ├── Class4-Inheritance/
 │   └── Class5-Polymorphism/
-└── Phase-4-Advanced/
-    ├── Phase4Summary.md
-    ├── Class1-Exceptions/
-    ├── Class2-Collections/           # Coming soon
-    ├── Class3-FileIO/                # Coming soon
-    ├── Class4-StreamsLambdas/        # Coming soon
-    └── Class5-APIs/                  # Coming soon
+├── Phase-4-Advanced/
+│   ├── Phase4Summary.md
+│   ├── Class1-Exceptions/
+│   ├── Class2-Collections/
+│   ├── Class3-FileIO/
+│   ├── Class4-StreamsLambdas/
+│   └── Class5-APIs/
+└── Phase-5-Professional/
+    ├── Phase5Summary.md
+    ├── Class1-Multithreading/
+    ├── Class2-JDBC/                  # Coming soon
+    ├── Class3-DesignPatterns/        # Coming soon
+    ├── Class4-UnitTesting/           # Coming soon
+    └── Class5-BuildTools/            # Coming soon
 ```
 
 Each class folder contains:
