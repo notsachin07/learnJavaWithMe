@@ -60,7 +60,7 @@
 | 2 | Control Flow | 5 | ✅ Complete |
 | 3 | Object-Oriented Programming | 5 | ✅ Complete |
 | 4 | Advanced Features | 5 | ✅ Complete |
-| 5 | Professional Java | 5 | 🔶 In Progress (1/5) |
+| 5 | Professional Java | 5 | 🔶 In Progress (2/5) |
 
 ---
 
@@ -127,7 +127,7 @@ Become a professional Java developer with advanced topics.
 | Class | Topic | Description | Status |
 |-------|-------|-------------|--------|
 | 1 | [Multithreading](Phase-5-Professional/Class1-Multithreading/) | Threads, ExecutorService, synchronization, concurrent utilities | ✅ |
-| 2 | Databases & JDBC | SQL basics, JDBC connections, PreparedStatement, transactions | 🔲 |
+| 2 | [Databases & JDBC](Phase-5-Professional/Class2-JDBC/) | SQL basics, JDBC connections, PreparedStatement, transactions | ✅ |
 | 3 | Design Patterns | Singleton, Factory, Builder, Observer, Strategy patterns | 🔲 |
 | 4 | Unit Testing | JUnit 5, assertions, test lifecycle, mocking basics | 🔲 |
 | 5 | Build Tools | Maven, Gradle, dependencies, JAR creation, project structure | 🔲 |
