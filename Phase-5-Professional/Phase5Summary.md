@@ -17,10 +17,10 @@ Phase 5 elevates your Java skills to professional-level development! You'll mast
 - **Key Concepts:** Data persistence, CRUD operations, connection pooling
 - **Files:** `README.md`, `JDBCDemo.java`, `Exercises.md`
 
-### Class 3: Design Patterns 🔲
-- **Topics:** Singleton, Factory, Builder, Observer, Strategy patterns
-- **Key Concepts:** Reusable solutions, code architecture, best practices
-- **Status:** Coming soon!
+### Class 3: Design Patterns ✅
+- **Topics:** Singleton, Factory, Builder, Observer, Strategy, Adapter, Decorator, Template Method, Facade
+- **Key Concepts:** Reusable solutions, code architecture, SOLID principles, Gang of Four patterns
+- **Files:** `README.md`, `DesignPatternsDemo.java`, `Exercises.md`
 
 ### Class 4: Unit Testing with JUnit 🔲
 - **Topics:** JUnit 5, assertions, test lifecycle, mocking basics
@@ -40,7 +40,7 @@ By the end of Phase 5, you will be able to:
 
 1. ✅ Write multithreaded applications with proper synchronization
 2. ✅ Connect Java applications to databases using JDBC
-3. 🔲 Apply common design patterns to solve architectural problems
+3. ✅ Apply common design patterns to solve architectural problems
 4. 🔲 Write comprehensive unit tests for your code
 5. 🔲 Use Maven/Gradle to build and package professional projects
 
@@ -52,7 +52,7 @@ By the end of Phase 5, you will be able to:
 |-------|-------|--------|
 | 1 | Multithreading & Concurrency | ✅ Complete |
 | 2 | Databases & JDBC | ✅ Complete |
-| 3 | Design Patterns | 🔲 Pending |
+| 3 | Design Patterns | ✅ Complete |
 | 4 | Unit Testing with JUnit | 🔲 Pending |
 | 5 | Build Tools & Packaging | 🔲 Pending |
 
@@ -62,7 +62,7 @@ By the end of Phase 5, you will be able to:
 
 - [Class 1: Multithreading](Class1-Multithreading/)
 - [Class 2: JDBC](Class2-JDBC/)
-- Class 3: Design Patterns (Coming Soon)
+- [Class 3: Design Patterns](Class3-DesignPatterns/)
 - Class 4: Unit Testing (Coming Soon)
 - Class 5: Build Tools (Coming Soon)
 
