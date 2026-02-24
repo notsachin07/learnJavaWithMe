@@ -9,6 +9,10 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](https://github.com/notsachin07/learnJavaWithMe/graphs/commit-activity)
 
+[![Curriculum](https://img.shields.io/badge/Curriculum-Complete-success?style=for-the-badge)]()
+[![Classes](https://img.shields.io/badge/Classes-25-blue?style=for-the-badge)]()
+[![Exercises](https://img.shields.io/badge/Exercises-225+-purple?style=for-the-badge)]()
+
 [![Stars](https://img.shields.io/github/stars/notsachin07/learnJavaWithMe?style=social)](https://github.com/notsachin07/learnJavaWithMe/stargazers)
 [![Forks](https://img.shields.io/github/forks/notsachin07/learnJavaWithMe?style=social)](https://github.com/notsachin07/learnJavaWithMe/network/members)
 [![Watchers](https://img.shields.io/github/watchers/notsachin07/learnJavaWithMe?style=social)](https://github.com/notsachin07/learnJavaWithMe/watchers)
@@ -40,9 +44,11 @@
 
 📝 **Line-by-Line Explanations** - Every code example is thoroughly explained
 
-💪 **Hands-On Practice** - 9 exercises per topic (Easy → Medium → Hard)
+💪 **Hands-On Practice** - 225+ exercises across 25 classes (Easy → Medium → Hard)
 
 🏗️ **Project-Based** - Build real understanding through practical examples
+
+🎓 **Complete Curriculum** - From basics to professional Java development
 
 🆓 **100% Free** - Open source and always will be
 
@@ -120,17 +126,17 @@ Master advanced Java concepts for production-quality code.
 
 ---
 
-## 🏆 Phase 5: Professional Java 🔶
+## 🏆 Phase 5: Professional Java ✅
 
-Become a professional Java developer with advanced topics.
+Become a professional Java developer with industry-standard practices.
 
-| Class | Topic | Description | Status |
-|-------|-------|-------------|--------|
-| 1 | [Multithreading](Phase-5-Professional/Class1-Multithreading/) | Threads, ExecutorService, synchronization, concurrent utilities | ✅ |
-| 2 | [Databases & JDBC](Phase-5-Professional/Class2-JDBC/) | SQL basics, JDBC connections, PreparedStatement, transactions | ✅ |
-| 3 | Design Patterns | Singleton, Factory, Builder, Observer, Strategy patterns | 🔲 |
-| 4 | Unit Testing | JUnit 5, assertions, test lifecycle, mocking basics | 🔲 |
-| 5 | Build Tools | Maven, Gradle, dependencies, JAR creation, project structure | 🔲 |
+| Class | Topic | Description |
+|-------|-------|-------------|
+| 1 | [Multithreading](Phase-5-Professional/Class1-Multithreading/) | Threads, ExecutorService, synchronization, concurrent utilities |
+| 2 | [Databases & JDBC](Phase-5-Professional/Class2-JDBC/) | SQL basics, JDBC connections, PreparedStatement, transactions |
+| 3 | [Design Patterns](Phase-5-Professional/Class3-DesignPatterns/) | Singleton, Factory, Builder, Observer, Strategy, Decorator |
+| 4 | [Unit Testing](Phase-5-Professional/Class4-JUnit/) | JUnit 5, assertions, parameterized tests, mocking with Mockito |
+| 5 | [Build Tools](Phase-5-Professional/Class5-BuildTools/) | Maven, Gradle, dependencies, JAR creation, multi-module projects |
 
 ---
 
@@ -170,10 +176,10 @@ learningJava/
 └── Phase-5-Professional/
     ├── Phase5Summary.md
     ├── Class1-Multithreading/
-    ├── Class2-JDBC/                  # Coming soon
-    ├── Class3-DesignPatterns/        # Coming soon
-    ├── Class4-UnitTesting/           # Coming soon
-    └── Class5-BuildTools/            # Coming soon
+    ├── Class2-JDBC/
+    ├── Class3-DesignPatterns/
+    ├── Class4-JUnit/
+    └── Class5-BuildTools/
 ```
 
 Each class folder contains:
@@ -206,10 +212,12 @@ java Main
 
 ## 📈 Learning Path
 
-1. **Start with Phase 1** - Build a strong foundation with Java basics
-2. **Move to Phase 2** - Learn control flow and code organization
-3. **Progress to Phase 3** - Master object-oriented programming concepts
-4. **Complete the exercises** - Practice makes perfect!
+1. **Phase 1: Fundamentals** - Build a strong foundation with Java basics
+2. **Phase 2: Control Flow** - Learn loops, methods, and code organization
+3. **Phase 3: OOP** - Master object-oriented programming concepts
+4. **Phase 4: Advanced** - Explore collections, streams, and file I/O
+5. **Phase 5: Professional** - Multithreading, databases, testing, and build tools
+6. **Complete the exercises** - 225 exercises across all topics!
 
 ---
 
