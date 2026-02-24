@@ -60,7 +60,7 @@
 | 2 | Control Flow | 5 | ✅ Complete |
 | 3 | Object-Oriented Programming | 5 | ✅ Complete |
 | 4 | Advanced Features | 5 | ✅ Complete |
-| 5 | Professional Java | 5 | 🔶 In Progress (4/5) |
+| 5 | Professional Java | 5 | ✅ Complete |
 
 ---
 

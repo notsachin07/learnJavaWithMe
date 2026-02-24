@@ -27,10 +27,10 @@ Phase 5 elevates your Java skills to professional-level development! You'll mast
 - **Key Concepts:** Test-driven development, code quality, automated testing, AAA pattern
 - **Files:** `README.md`, `JUnitDemo.java`, `Exercises.md`
 
-### Class 5: Build Tools & Packaging 🔲
-- **Topics:** Maven, Gradle, dependencies, JAR creation, project structure
-- **Key Concepts:** Build automation, dependency management, deployment
-- **Status:** Coming soon!
+### Class 5: Build Tools & Packaging ✅
+- **Topics:** Maven, Gradle, dependencies, JAR creation, project structure, multi-module projects
+- **Key Concepts:** Build automation, dependency management, CI/CD integration, plugins
+- **Files:** `README.md`, `BuildToolsDemo.java`, `Exercises.md`
 
 ---
 
@@ -42,7 +42,7 @@ By the end of Phase 5, you will be able to:
 2. ✅ Connect Java applications to databases using JDBC
 3. ✅ Apply common design patterns to solve architectural problems
 4. ✅ Write comprehensive unit tests for your code
-5. 🔲 Use Maven/Gradle to build and package professional projects
+5. ✅ Use Maven/Gradle to build and package professional projects
 
 ---
 
@@ -54,7 +54,7 @@ By the end of Phase 5, you will be able to:
 | 2 | Databases & JDBC | ✅ Complete |
 | 3 | Design Patterns | ✅ Complete |
 | 4 | Unit Testing with JUnit | ✅ Complete |
-| 5 | Build Tools & Packaging | 🔲 Pending |
+| 5 | Build Tools & Packaging | ✅ Complete |
 
 ---
 
@@ -64,7 +64,7 @@ By the end of Phase 5, you will be able to:
 - [Class 2: JDBC](Class2-JDBC/)
 - [Class 3: Design Patterns](Class3-DesignPatterns/)
 - [Class 4: JUnit Testing](Class4-JUnit/)
-- Class 5: Build Tools (Coming Soon)
+- [Class 5: Build Tools](Class5-BuildTools/)
 
 ---
 
